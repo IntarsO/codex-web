@@ -852,9 +852,9 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 5px;
   border-width: 2px;
   --tw-border-opacity: 1;
-  border-color: rgb(165 209 98 / var(--tw-border-opacity));
+  border-color: rgb(140 84 252 / var(--tw-border-opacity));
   --tw-bg-opacity: 1;
-  background-color: rgb(165 209 98 / var(--tw-bg-opacity));
+  background-color: rgb(140 84 252 / var(--tw-bg-opacity));
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
   padding-left: 26px;
@@ -869,9 +869,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .btn-custom:hover {
   --tw-border-opacity: 1;
-  border-color: rgb(7 137 126 / var(--tw-border-opacity));
+  border-color: rgb(196 170 252 / var(--tw-border-opacity));
   --tw-bg-opacity: 1;
-  background-color: rgb(7 137 126 / var(--tw-bg-opacity));
+  background-color: rgb(196 170 252 / var(--tw-bg-opacity));
 }
 
 .btn-custom:focus {
@@ -883,8 +883,8 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   border-radius: 30px;
   border-width: 2px;
-  border-color: rgb(165 209 98 / 0.001);
-  background-color: rgb(165 209 98 / 0.1);
+  border-color: rgb(140 84 252 / 0.001);
+  background-color: rgb(140 84 252 / 0.1);
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
   padding-left: 26px;
@@ -893,7 +893,7 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: capitalize;
   letter-spacing: 1px;
   --tw-text-opacity: 1;
-  color: rgb(165 209 98 / var(--tw-text-opacity));
+  color: rgb(140 84 252 / var(--tw-text-opacity));
   transition-duration: 150ms;
 }
 
@@ -901,9 +901,9 @@ h1, h2, h3, h4, h5, h6 {
   --tw-translate-y: -3px;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   --tw-border-opacity: 1;
-  border-color: rgb(165 209 98 / var(--tw-border-opacity));
+  border-color: rgb(140 84 252 / var(--tw-border-opacity));
   --tw-bg-opacity: 1;
-  background-color: rgb(165 209 98 / var(--tw-bg-opacity));
+  background-color: rgb(140 84 252 / var(--tw-bg-opacity));
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
   --tw-shadow: 0 4px 11px rgba(10,161,149,0.1);
@@ -932,7 +932,7 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: capitalize;
   letter-spacing: 1px;
   --tw-text-opacity: 1;
-  color: rgb(165 209 98 / var(--tw-text-opacity));
+  color: rgb(140 84 252 / var(--tw-text-opacity));
   transition-duration: 150ms;
 }
 
@@ -972,9 +972,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .active-price-tab {
   --tw-border-opacity: 1 !important;
-  border-color: rgb(165 209 98 / var(--tw-border-opacity)) !important;
+  border-color: rgb(140 84 252 / var(--tw-border-opacity)) !important;
   --tw-bg-opacity: 1 !important;
-  background-color: rgb(165 209 98 / var(--tw-bg-opacity)) !important;
+  background-color: rgb(140 84 252 / var(--tw-bg-opacity)) !important;
   --tw-text-opacity: 1 !important;
   color: rgb(255 255 255 / var(--tw-text-opacity)) !important;
 }
@@ -1012,7 +1012,7 @@ button:focus {
   height: 0.375rem;
   width: 0.375rem;
   --tw-bg-opacity: 1 !important;
-  background-color: rgb(165 209 98 / var(--tw-bg-opacity)) !important;
+  background-color: rgb(140 84 252 / var(--tw-bg-opacity)) !important;
 }
 
 .client-sec .swiper-pagination-bullet-active,.client-center .swiper-pagination-bullet-active {
@@ -1020,7 +1020,7 @@ button:focus {
   width: 1.25rem;
   border-radius: 0.5rem;
   --tw-bg-opacity: 1 !important;
-  background-color: rgb(165 209 98 / var(--tw-bg-opacity)) !important;
+  background-color: rgb(140 84 252 / var(--tw-bg-opacity)) !important;
 }
 
 .fixed {
@@ -1948,7 +1948,7 @@ button:focus {
 
 .border-custom {
   --tw-border-opacity: 1;
-  border-color: rgb(165 209 98 / var(--tw-border-opacity));
+  border-color: rgb(140 84 252 / var(--tw-border-opacity));
 }
 
 .\!border-\[\#ced4da\] {
@@ -2009,7 +2009,7 @@ button:focus {
 }
 
 .border-custom\/10 {
-  border-color: rgb(165 209 98 / 0.1);
+  border-color: rgb(140 84 252 / 0.1);
 }
 
 .border-\[\#eaeaea\] {
@@ -2029,7 +2029,7 @@ button:focus {
 
 .bg-custom {
   --tw-bg-opacity: 1;
-  background-color: rgb(165 209 98 / var(--tw-bg-opacity));
+  background-color: rgb(140 84 252 / var(--tw-bg-opacity));
 }
 
 .bg-\[\#dff1f0\] {
@@ -2038,7 +2038,7 @@ button:focus {
 }
 
 .bg-custom\/20 {
-  background-color: rgb(165 209 98 / 0.2);
+  background-color: rgb(140 84 252 / 0.2);
 }
 
 .bg-\[\#e7e7e7\] {
@@ -2084,7 +2084,7 @@ button:focus {
 }
 
 .bg-custom\/\[0\.15\] {
-  background-color: rgb(165 209 98 / 0.15);
+  background-color: rgb(140 84 252 / 0.15);
 }
 
 .bg-light {
@@ -2119,11 +2119,11 @@ button:focus {
 }
 
 .bg-custom\/\[0\.07\] {
-  background-color: rgb(165 209 98 / 0.07);
+  background-color: rgb(140 84 252 / 0.07);
 }
 
 .bg-custom\/\[17\%\] {
-  background-color: rgb(165 209 98 / 17%);
+  background-color: rgb(140 84 252 / 17%);
 }
 
 .bg-\[\#0d0f14\]\/25 {
@@ -2194,7 +2194,7 @@ button:focus {
 }
 
 .to-custom\/20 {
-  --tw-gradient-to: rgb(165 209 98 / 0.2);
+  --tw-gradient-to: rgb(140 84 252 / 0.2);
 }
 
 .bg-cover {
@@ -2757,7 +2757,7 @@ button:focus {
 
 .text-custom {
   --tw-text-opacity: 1;
-  color: rgb(165 209 98 / var(--tw-text-opacity));
+  color: rgb(140 84 252 / var(--tw-text-opacity));
 }
 
 .text-white {
@@ -3135,12 +3135,12 @@ header {
 .horizontal-nav .horizontal-menu > li.active > a,
     .horizontal-nav .horizontal-menu > li > a:hover,
     .horizontal-nav .horizontal-menu > li > a:focus {
-  color: #0aa195;
+  color: #c4aafc;
   background-color: transparent;
 }
 
 .active{
-  color: #0aa195 !important;
+  color: #c4aafc !important;
 }
 
 .horizontal-nav .horizontal-menu > li.active > a img,
@@ -3184,7 +3184,7 @@ header {
 .horizontal-nav .horizontal-menu .dropdown-menu li.active > a,
     .horizontal-nav .horizontal-menu .dropdown-menu li > a:hover,
     .horizontal-nav .horizontal-menu .dropdown-menu li > a:focus {
-  color: #0aa195;
+  color: #c4aafc;
 }
 
 .horizontal-nav .horizontal-menu .dropdown-toggle:focus {
@@ -3231,7 +3231,7 @@ header {
 .horizontal-nav .menu-item-has-mega-menu.dropdown .mega-menu-col .active > a,
     .horizontal-nav .menu-item-has-mega-menu.dropdown .mega-menu-col > a:hover,
     .horizontal-nav .menu-item-has-mega-menu.dropdown .mega-menu-col > a:focus {
-  color: #0aa195;
+  color: #c4aafc;
   background: transparent;
 }
 
@@ -3341,7 +3341,7 @@ header {
 
   .horizontal-nav .horizontal-menu .mega-menu-col .sub-menu a:hover,
         .horizontal-nav .horizontal-menu .mega-menu-col .sub-menu a:focus {
-    color: #0aa195;
+    color: #c4aafc;
     background: transparent;
   }
 
@@ -3439,7 +3439,7 @@ header {
         .horizontal-nav .horizontal-menu li .dropdown-menu li a:focus,
         .horizontal-nav .horizontal-menu li .mega-menu .mega-menu-col ul li a:hover,
         .horizontal-nav .horizontal-menu li .mega-menu .mega-menu-col ul li a:focus {
-    color: #0aa195;
+    color: #c4aafc;
     background-color: transparent;
   }
 
@@ -3594,17 +3594,17 @@ header {
 
 .hover\:border-\[\#07897e\]:hover {
   --tw-border-opacity: 1;
-  border-color: rgb(7 137 126 / var(--tw-border-opacity));
+  border-color: rgb(196 170 252 / var(--tw-border-opacity));
 }
 
 .hover\:bg-\[\#07897e\]:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(7 137 126 / var(--tw-bg-opacity));
+  background-color: rgb(196 170 252 / var(--tw-bg-opacity));
 }
 
 .hover\:text-custom:hover {
   --tw-text-opacity: 1;
-  color: rgb(165 209 98 / var(--tw-text-opacity));
+  color: rgb(140 84 252 / var(--tw-text-opacity));
 }
 
 .hover\:text-white:hover {
@@ -3614,12 +3614,12 @@ header {
 
 .focus\:\!border-custom:focus {
   --tw-border-opacity: 1 !important;
-  border-color: rgb(165 209 98 / var(--tw-border-opacity)) !important;
+  border-color: rgb(140 84 252 / var(--tw-border-opacity)) !important;
 }
 
 .focus\:border-custom:focus {
   --tw-border-opacity: 1;
-  border-color: rgb(165 209 98 / var(--tw-border-opacity));
+  border-color: rgb(140 84 252 / var(--tw-border-opacity));
 }
 
 .focus\:outline-none:focus {
@@ -3984,7 +3984,7 @@ header {
 
 .\[\&\>span\]\:bg-custom>span {
   --tw-bg-opacity: 1;
-  background-color: rgb(165 209 98 / var(--tw-bg-opacity));
+  background-color: rgb(140 84 252 / var(--tw-bg-opacity));
 }
 
 .\[\&\>span\]\:opacity-10>span {

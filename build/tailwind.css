@@ -244,11 +244,11 @@ header {
     .horizontal-nav .horizontal-menu > li.active > a,
     .horizontal-nav .horizontal-menu > li > a:hover,
     .horizontal-nav .horizontal-menu > li > a:focus {
-        color: #0aa195;
+        color: #c4aafc;
         background-color: transparent;
     }
     .active{
-        color: #0aa195 !important;
+        color: #c4aafc !important;
     }
     .horizontal-nav .horizontal-menu > li.active > a img,
     .horizontal-nav .horizontal-menu > li > a:hover img,
@@ -285,7 +285,7 @@ header {
     .horizontal-nav .horizontal-menu .dropdown-menu li.active > a,
     .horizontal-nav .horizontal-menu .dropdown-menu li > a:hover,
     .horizontal-nav .horizontal-menu .dropdown-menu li > a:focus {
-        color: #0aa195;
+        color: #c4aafc;
     }
     .horizontal-nav .horizontal-menu .dropdown-toggle:focus {
         outline: 0;
@@ -323,7 +323,7 @@ header {
     .horizontal-nav .menu-item-has-mega-menu.dropdown .mega-menu-col .active > a,
     .horizontal-nav .menu-item-has-mega-menu.dropdown .mega-menu-col > a:hover,
     .horizontal-nav .menu-item-has-mega-menu.dropdown .mega-menu-col > a:focus {
-        color: #0aa195;
+        color: #c4aafc;
         background: transparent;
     }
     .horizontal-nav .menu-item-has-mega-menu.dropdown .mega-menu-col-title {
@@ -415,7 +415,7 @@ header {
         }
         .horizontal-nav .horizontal-menu .mega-menu-col .sub-menu a:hover,
         .horizontal-nav .horizontal-menu .mega-menu-col .sub-menu a:focus {
-            color: #0aa195;
+            color: #c4aafc;
             background: transparent;
         }
         .horizontal-nav .horizontal-menu .mega-menu-col-title {
@@ -497,7 +497,7 @@ header {
         .horizontal-nav .horizontal-menu li .dropdown-menu li a:focus,
         .horizontal-nav .horizontal-menu li .mega-menu .mega-menu-col ul li a:hover,
         .horizontal-nav .horizontal-menu li .mega-menu .mega-menu-col ul li a:focus {
-            color: #0aa195;
+            color: #c4aafc;
             background-color: transparent;
         }
         .horizontal-nav .horizontal-menu li a:hover img,
